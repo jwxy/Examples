@@ -1,0 +1,21 @@
+map: 1
+  [0, 0, 1, 0]
+  [0, 1, 1, 0]
+  [0, 1, 0, 0]
+  [1, 1, 0, 1]
+  number of islands: 2
+  largest island: 6
+map: 2
+  [0, 0, 0, 0]
+  [0, 1, 1, 0]
+  [0, 0, 0, 0]
+  [0, 0, 0, 0]
+  number of islands: 1
+  largest island: 2
+map: 3
+  [1, 0, 0, 0]
+  [0, 1, 0, 0]
+  [0, 0, 1, 0]
+  [0, 0, 0, 1]
+  number of islands: 4
+  largest island: 1
